@@ -1,0 +1,3 @@
+The Unity project will not be used to grade this project’s tasks so don’t worry about saving it or making changes to it. You can open a scene by going to the Project window then choosing Sample Scenes then Scenes and double-clicking any scene (Car is recommended but any scene will work). While doing the reading, click on objects in the Scene window and play around with the interface to see what different tools and gizmos do.
+
+You can also rearrange the Unity interface however you like! Just make sure you know where to find everything. :)
